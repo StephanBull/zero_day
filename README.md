@@ -1,4 +1,6 @@
 Content-Type: text/enriched
 Text-Width: 70
 
-This file is mandatory in projects
+<bold>This file is mandatory in all projects</bold>
+
+
